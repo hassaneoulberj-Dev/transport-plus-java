@@ -2,6 +2,52 @@
 
 Mini-projet académique Java Swing et MySQL : interfaces client et administrateur pour gérer des voyages en autocar, les réservations, les clients et les offres spéciales.
 
+## Aperçu de l’application
+
+Captures réalisées avec les comptes et données de démonstration.
+
+### Connexion
+
+![Connexion](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20125503.png)
+
+### Tableau de bord administrateur
+
+![Tableau de bord administrateur](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131106.png)
+
+### Gestion des voyages
+
+![Gestion des voyages](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131146.png)
+
+### Gestion des clients
+
+![Gestion des clients](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131202.png)
+
+### Offres spéciales
+
+![Offres spéciales](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131213.png)
+
+### Paramètres
+
+![Paramètres](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131222.png)
+
+### Accueil client
+
+![Accueil client](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131303.png)
+
+### Recherche de voyages
+
+![Recherche de voyages](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131312.png)
+
+### Mes réservations
+
+![Mes réservations](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131322.png)
+
+### Exemple de reçu de réservation
+
+![Exemple de reçu de réservation](screenshots/Capture%20d%E2%80%99%C3%A9cran%202026-11-06%20131547.png)
+
+[Consulter le reçu de réservation au format PDF](docs/exemples/recu-reservation-demo.pdf)
+
 ## Fonctionnalités présentes
 
 - Connexion selon le rôle et inscription d’un client.
