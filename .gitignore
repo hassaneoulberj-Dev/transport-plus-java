@@ -1,0 +1,10 @@
+build/
+bin/
+.classpath
+.project
+.settings/
+config/database.properties
+.env
+*.class
+*.log
+Recu_Reservation_*.pdf
